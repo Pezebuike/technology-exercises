@@ -132,7 +132,7 @@ False. The minimum is 2 while the maximum is 6.
 #### AWS - Keypair
 
 <details>
-<summary>If you lost ec2 key pair. How to recover it ?summary><br><b>
+<summary>If you lost ec2 key pair. How to recover it ?</summary><br><b>
 
 - First go to your EC2 instance,Right click on instance and click on image and go with create image
 - Give image name and description and click on create image
