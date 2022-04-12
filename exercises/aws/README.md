@@ -130,6 +130,23 @@ False. The minimum is 2 while the maximum is 6.
 * Pricing: the pricing might not be consistent across regions so, the price for the same service in different regions might be different.
 </b></details>
 
+#### AWS - S3
+
+<details>
+<summary>How to host a static website using Amazon S3?</summary><br><b>
+
+- log in to AWS console and type S3
+- Create a bucket and give bucket name 
+- choose a region you want to select 
+- check on Block All settings as if now for practice   please uncheck 
+- click on create bucket 
+- select the bucket and go inside the bucket
+- click on upload option and try to uploadthe file or folder in which your .html file is there snd upload and click on next 
+- When you configure a bucket as a static website, you must enable website hosting, set permissions, and create and add an index document. 
+- select file and take object URL and paste in website you have to able to see static website
+</b></details>
+
+
 #### AWS - IAM
 
 <details>
