@@ -129,6 +129,24 @@ False. The minimum is 2 while the maximum is 6.
 * Compliance: some countries have more strict rules and requirements such as making sure the data stays within the borders of the country or the region. In that case, only specific region can be used for running the application
 * Pricing: the pricing might not be consistent across regions so, the price for the same service in different regions might be different.
 </b></details>
+#### AWS - Keypair
+
+<details>
+<summary>If you lost ec2 key pair. How to recover it ?summary><br><b>
+
+- First go to your EC2 instance,Right click on instance and click on image and go with create image
+- Give image name and description and click on create image
+- Now image is created and wait for few minutes and under image you will get AMI option
+- Now status Changes from pending to available
+- Now click on instances uncheck your last created instance and click on launch instance
+- Go to My Ami and select the image you created  
+- choose instance type
+- configure instance details
+- Add storage
+- Add tags
+- Configure Security Groups
+- Select key pair in that Create a New keypair and click on launch instanceNow click on Ec2 and delete the last instance 
+- Now you can log in to new instance using the newly created PEM key 
 
 #### AWS - S3
 
