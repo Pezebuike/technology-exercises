@@ -147,6 +147,42 @@ False. The minimum is 2 while the maximum is 6.
 - Configure Security Groups
 - Select key pair in that Create a New keypair and click on launch instanceNow click on Ec2 and delete the last instance 
 - Now you can log in to new instance using the newly created PEM key 
+#### AWS - EFS
+
+<details>
+<summary> Create AWS EFS Mount on  EC2 </summary><br><b>
+
+# Configuration Steps:
+- Come to the AWS management Console and create the EC2 instance
+- Click on Instance and then go to Launch instance option
+- Choose and Amazon Machine Image(AMI)
+- Configure instance details ,In AZ please select the region
+- Configure security Group
+- click on launch instance
+# now create file system
+- Now go to EFS in AWS console
+- Now click on create EFs
+- Customize all the Configuration according to your requirement
+- Assign mount target , provide NFS Security Group
+- Created file system with Name Demo
+- Now check the availability zone in security group
+- Now connect your EC2 instance
+- Install the amazon utils
+``` 
+- sudo yum install -y amazon-efs-utils
+```
+- Now create a directory  name as efs
+```
+mkdir efs
+```
+- Now select Mount via DNS 
+- give below mount command in linux machine
+- Give df -h to check mount ios completed
+- Now create a file there and provide some content in that file
+- Take ssh for another instance with the same method install the amazon utils there and create efs directory, and mount the efs with same command as before  I can also get that here
+- Now you can able to see the file which is already mounted in to efs and can check the file by using different availability zones as well
+
+</b></details>
 
 #### AWS - S3
 
