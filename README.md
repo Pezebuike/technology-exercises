@@ -1809,9 +1809,12 @@ Personally, I think individual packages are the way to go unless you aren't sure
 
 </b></details>
 	
+<details>
+<summary>  Is YUM deprecated? ?</summary><br><b>
 
-
+Around this time last year, Fedora 22 brought a major update for anyone working under the Fedora hood -- Yum was deprecated and replaced by DNF. It brings some significant changes: Faster, more mathematically correct method for solving dependency resolution.
 	
+</b></details>
 
 <details>
 <summary>Do you have experience with packaging? (as in building packages) Can you explain how does it works?</summary><br><b>
