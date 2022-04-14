@@ -5351,7 +5351,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <details>
 <summary>Select Statements are true or not ?</summary><br><b>
 
-- Question 1 ? 👇
+  - Question 1 ? 👇
    ![Question 1](./exercises/azure-exam-questions/Q1.png)
 
 </b></details>
