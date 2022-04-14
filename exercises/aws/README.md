@@ -129,6 +129,77 @@ False. The minimum is 2 while the maximum is 6.
 * Compliance: some countries have more strict rules and requirements such as making sure the data stays within the borders of the country or the region. In that case, only specific region can be used for running the application
 * Pricing: the pricing might not be consistent across regions so, the price for the same service in different regions might be different.
 </b></details>
+#### AWS - Keypair
+
+<details>
+<summary>If you lost ec2 key pair. How to recover it ?</summary><br><b>
+
+- First go to your EC2 instance,Right click on instance and click on image and go with create image
+- Give image name and description and click on create image
+- Now image is created and wait for few minutes and under image you will get AMI option
+- Now status Changes from pending to available
+- Now click on instances uncheck your last created instance and click on launch instance
+- Go to My Ami and select the image you created  
+- choose instance type
+- configure instance details
+- Add storage
+- Add tags
+- Configure Security Groups
+- Select key pair in that Create a New keypair and click on launch instanceNow click on Ec2 and delete the last instance 
+- Now you can log in to new instance using the newly created PEM key 
+#### AWS - EFS
+
+<details>
+<summary> Create AWS EFS Mount on  EC2 </summary><br><b>
+
+# Configuration Steps:
+- Come to the AWS management Console and create the EC2 instance
+- Click on Instance and then go to Launch instance option
+- Choose and Amazon Machine Image(AMI)
+- Configure instance details ,In AZ please select the region
+- Configure security Group
+- click on launch instance
+# now create file system
+- Now go to EFS in AWS console
+- Now click on create EFs
+- Customize all the Configuration according to your requirement
+- Assign mount target , provide NFS Security Group
+- Created file system with Name Demo
+- Now check the availability zone in security group
+- Now connect your EC2 instance
+- Install the amazon utils
+``` 
+- sudo yum install -y amazon-efs-utils
+```
+- Now create a directory  name as efs
+```
+mkdir efs
+```
+- Now select Mount via DNS 
+- give below mount command in linux machine
+- Give df -h to check mount ios completed
+- Now create a file there and provide some content in that file
+- Take ssh for another instance with the same method install the amazon utils there and create efs directory, and mount the efs with same command as before  I can also get that here
+- Now you can able to see the file which is already mounted in to efs and can check the file by using different availability zones as well
+
+</b></details>
+
+#### AWS - S3
+
+<details>
+<summary>How to host a static website using Amazon S3?</summary><br><b>
+
+- log in to AWS console and type S3
+- Create a bucket and give bucket name 
+- choose a region you want to select 
+- check on Block All settings as if now for practice   please uncheck 
+- click on create bucket 
+- select the bucket and go inside the bucket
+- click on upload option and try to uploadthe file or folder in which your .html file is there snd upload and click on next 
+- When you configure a bucket as a static website, you must enable website hosting, set permissions, and create and add an index document. 
+- select file and take object URL and paste in website you have to able to see static website
+</b></details>
+
 
 #### AWS - IAM
 

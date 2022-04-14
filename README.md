@@ -1794,6 +1794,29 @@ When you get a reply, this reply in cached in your OS for a certain period of ti
 ##### Linux - Packaging
 
 <details>
+<summary>  yum module vs yum group ?</summary><br><b>
+
+
+Assuming you're talking about yum, the groupinstall command installs a bundle of packages that are designated as a group so that you don't need to install a bunch of individual packages yourself to have all of the features. So yum groupinstall "Engineering and Scientific" would install a bunch of packages that someone decided should be used on engineering and scientific workstations. Likewise yum groupupdate "Engineering and Scientific" would upgrade those packages if necessary (and install any new ones) and yum groupremove "Engineering and Scientific" would remove all of them.
+
+yum grouplist will list the possible groups. yum groupinfo groupname will show what packages are members of groupname (you will need "quotes" if there are spaces in the group name).
+
+More details here (grouplist and groupinfo) and here
+
+The regular install just installs individual packages (and their dependencies) by name.
+
+Personally, I think individual packages are the way to go unless you aren't sure what package you want, and want to try all of the Editors to see which one you like.
+
+</b></details>
+	
+<details>
+<summary>  Is YUM deprecated? ?</summary><br><b>
+
+Around this time last year, Fedora 22 brought a major update for anyone working under the Fedora hood -- Yum was deprecated and replaced by DNF. It brings some significant changes: Faster, more mathematically correct method for solving dependency resolution.
+	
+</b></details>
+
+<details>
 <summary>Do you have experience with packaging? (as in building packages) Can you explain how does it works?</summary><br><b>
 </b></details>
 
