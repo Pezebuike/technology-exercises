@@ -5377,6 +5377,19 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 
 </b></details>
 
+<details>
+<summary>Question 35 : What is 35 ?</summary><br><b>
+
+  - Question 1 ? 👇
+   ![Question 1](./exercises/azure-DP-900/35Q.png)
+   
+   - Answer 1 ? 👇
+   ![Answer 1](./exercises/azure-DP-900/35A.png)
+
+  - Reference : https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
+
+</b></details>
+
 ## Azure
 
 <details>
