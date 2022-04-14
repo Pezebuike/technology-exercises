@@ -5352,7 +5352,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <summary>Select Statements are true or not ?</summary><br><b>
 
 - See the below Question and select which one is true ? 👇
-   ![Question 1](./exercises/azure-exam-questions.png)
+   ![Question 1](./exercises/azure-exam-questions/azure-exam-questions.png)
 
 </b></details>
 
