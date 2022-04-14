@@ -5404,6 +5404,9 @@ An availability set is a logical grouping of VMs that allows Azure to understand
 
 <details>
 <summary>What is the Azure Resource Manager? Can you describe the format for ARM templates?</summary><br><b>
+
+"Azure Resource Manager is a management framework that allows you to deploy, manage and monitor Azure resources. It enables you to provision, modify, and delete resources using a variety of features including access controls, tags, and locks. 
+Azure Resource Manager (ARM) templates are documents used to manage Infrastructure as Code (IaC). ARM templates are written in JavaScript Object Notation (JSON) and use declarative syntax to define how resources should be configured, deployed, and managed. To create a ARM template, visit [Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell)
 </b></details>
 
 <details>
