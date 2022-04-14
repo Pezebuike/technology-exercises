@@ -5381,7 +5381,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <summary>Question 35 : What is 35 ?</summary><br><b>
 
   - Question 35 ? 👇
-   ![Question 35](./exercises/azure-DP-900/Q35.png)
+   ![Question 35](./exercises/azure-DP-900/Q355.png)
    
    - Answer 35 ? 👇
    ![Answer 35](./exercises/azure-DP-900/A35.png)
