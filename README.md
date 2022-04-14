@@ -5406,11 +5406,13 @@ An availability set is a logical grouping of VMs that allows Azure to understand
 <summary>What is the Azure Resource Manager? Can you describe the format for ARM templates?</summary><br><b>
 
 "Azure Resource Manager is a management framework that allows you to deploy, manage and monitor Azure resources. It enables you to provision, modify, and delete resources using a variety of features including access controls, tags, and locks. 
-Azure Resource Manager (ARM) templates are documents used to manage Infrastructure as Code (IaC). ARM templates are written in JavaScript Object Notation (JSON) and use declarative syntax to define how resources should be configured, deployed, and managed. To create a ARM template, visit [Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell)
+Azure Resource Manager (ARM) templates are documents used to manage Infrastructure as Code (IaC). ARM templates are written in JavaScript Object Notation (JSON) and use declarative syntax to define how resources should be configured, deployed, and managed. To create a ARM template, visit" [Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-tutorial-create-first-template?tabs=azure-powershell)
 </b></details>
 
 <details>
 <summary>Explain Azure managed disks</summary><br><b>
+
+"Azure Managed disks are similar to physical disks in on-premise environments, provided with additional features such as encryption, high availability, security, and covered with disaster recovery plans. Currently Azure offers various disk types for Azure Managed disks that include premium SSD, standard SSD and standard HDD. You can encrypt your managed disks while creating, and this will meet your organizational security and compliance commitments. Managed disks offer two different kinds of encryption. The first is Server Side Encryption (SSE), which is performed by the storage service. The second one is Azure Disk Encryption (ADE), which you can enable on the OS and data disks for your VMs. By using Managed Disks, we can skip the process of creating a storage account and defining a URI for the disk. All we need to do is specify the disk name, storage account type, etc. Managed Disks are Azure Resource Manager (ARM) resources, and as such can be managed using JSON templates."
 </b></details>
 
 #### Azure - Compute
@@ -5422,7 +5424,8 @@ Azure Resource Manager (ARM) templates are documents used to manage Infrastructu
   * Azure Batch
   * Azure Service Fabric
   * Azure Container Instances
-  * Azure Virtual Machine Scale Set?s
+  * Azure Virtual Machine Scale Sets
+  *Azure App Service
 </b></details>
 
 <details>
@@ -5457,10 +5460,14 @@ Running parallel and high-performance computing applications
 
 <details>
 <summary>What "Azure Service Fabric" service is used for?</summary><br><b>
+
+Build and deploy microservices-based cloud applications
 </b></details>
 
 <details>
 <summary>What "Azure Kubernetes" service is used for?</summary><br><b>
+
+Deploy and manage containerized applications in the quickest way possible
 </b></details>
 
 #### Azure - Network
