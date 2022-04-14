@@ -37,6 +37,7 @@
     <td align="center"><a href="exercises/aws/README.md"><img src="images/aws.png" width="75px;" height="75px;" alt="aws"/><br /><b>AWS</b></a></td>
     <td align="center"><a href="#azure"><img src="images/azure.png" width="75px;" height="75px;" alt="azure"/><br /><b>Azure</b></a></td>
 	<td align="center"><a href="#azure-exam-review"><img src="images/azure-exam.png" width="75px;" height="75px;" alt="azure-exam-review"/><br /><b>Azure-Exam-Review</b></a></td>
+	<td align="center"><a href="#azure-dp-900"><img src="images/azure-dp-900.png" width="75px;" height="75px;" alt="azure-DP-900"/><br /><b>Azure-DP-900</b></a></td>
     <td align="center"><a href="#gcp"><img src="images/googlecloud.png" width="80px;" height="75px;" alt="Google Cloud Platform"/><br /><b>Google Cloud Platform</b></a></td>
     <td align="center"><a href="#openstack"><img src="images/openstack.png" width="75px;" height="75px;" alt="openstack"/><br /><b>OpenStack</b></a></td>
     <td align="center"><a href="exercises/security/README.md"><img src="images/security.png" width="75px;" height="75px;" alt="security"/><br /><b>Security</b></a></td>
