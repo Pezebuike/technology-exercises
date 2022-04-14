@@ -5353,7 +5353,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 
 - See the below Question and select which one is true ? 👇
 
-[![Watch the video](./exercises/azure-exam-questions/q1.png)](https://www.youtube.com/channel/cloudnloud)
+   (./exercises/azure-exam-questions/q1.png)]
 
 </b></details>
 
