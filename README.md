@@ -5346,6 +5346,8 @@ WHERE
 When you use a function (`YEAR(purchased_at)`) it has to scan the whole database as opposed to using indexes and basically the column as it is, in its natural state.
 </b></details>
 
+## Azure-Exam-Review
+
 ## Azure
 
 <details>
