@@ -5398,6 +5398,8 @@ An availability set is a logical grouping of VMs that allows Azure to understand
 
 <details>
 <summary>What is Azure Policy?</summary><br><b>
+
+[Microsoft Docs] (https://docs.microsoft.com/en-us/azure/defender-for-cloud/security-policy-concept#:~:text=An%20Azure%20Policy%20definition%2C%20created,of%20tags%20on%20all%20resources.) : "Azure Policy, is a rule about specific security conditions that you want controlled. Built in definitions include things like controlling what type of resources can be deployed or enforcing the use of tags on all resources. You can also create your own custom policy definitions."
 </b></details>
 
 <details>
