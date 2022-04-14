@@ -5353,6 +5353,11 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 
   - Question 1 ? 👇
    ![Question 1](./exercises/azure-exam-questions/Q1.png)
+   
+   - Answer 1 ? 👇
+   ![Answer 1](./exercises/azure-exam-questions/A1.png)
+
+  - Reference : https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
 
 </b></details>
 
