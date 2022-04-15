@@ -5567,10 +5567,22 @@ N-tier architecture is a client-server architecture concept in software engineer
 
 <details>
 <summary>What Azure storage services are you familiar with?</summary><br><b>
+
+ * Azure Blob Storage
+ * Azure Disk Storage
+ * Azure Files
+ * Azure Blob access tiers
 </b></details>
 
 <details>
 <summary>What storage options Azure supports?</summary><br><b>
+
+[microsoft docs](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/): Azure Storage offers five core services: 
+ * Blobs
+ * Files
+ * Queues
+ * Tables
+ * Disks
 </b></details>
 
 #### Azure Security
