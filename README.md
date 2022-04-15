@@ -5490,7 +5490,7 @@ Azure Resource Manager (ARM) templates are documents used to manage Infrastructu
   * Azure Service Fabric
   * Azure Container Instances
   * Azure Virtual Machine Scale Sets
-  *Azure App Service
+  * Azure App Service
 </b></details>
 
 <details>
@@ -5540,9 +5540,9 @@ Deploy and manage containerized applications in the quickest way possible
 <details>
 <summary>What Azure network services are you familiar with?</summary><br><b>
 
-*Virtual Network
-*VPN Gateway
-*ExpressRoute
+ * Virtual Network
+ * VPN Gateway
+ * ExpressRoute
 </b></details>
 
 <details>
