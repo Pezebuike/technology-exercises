@@ -5415,6 +5415,19 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 
 </b></details>
 
+<details>
+<summary>Question 35 : What is descriptive analysisq3243223?</summary><br><b>
+
+  - Question 35 ? 👇
+   ![Question 1](./exercises/azure-DP-900/35Q.png)
+   
+   - Answer 35 ? 👇
+   ![Answer 1](./exercises/azure-DP-900/35A.png)
+
+  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
+
+</b></details>
+
 ## Azure
 
 <details>
