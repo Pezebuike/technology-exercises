@@ -5539,14 +5539,28 @@ Deploy and manage containerized applications in the quickest way possible
 
 <details>
 <summary>What Azure network services are you familiar with?</summary><br><b>
+
+*Virtual Network
+*VPN Gateway
+*ExpressRoute
 </b></details>
 
 <details>
 <summary>What's an Azure region?</summary><br><b>
+
+Azure regions are designed to offer protection against localized disasters with availability zones and protection from regional or large geography disasters with disaster recovery, by making use of another region.
+Each Azure geography contains one or more regions and meets specific data residency and compliance requirements. This lets you keep your business-critical data and apps nearby on fault-tolerant, high-capacity networking infrastructure.
+There are special Azure regions available which are physical and logical network-isolated instance of Azure for US government agencies and partners, operated by screened US persons. Includes additional compliance certifications such as FedRAMP and DISA.
 </b></details>
 
 <details>
 <summary>What is the N-tier architecture?</summary><br><b>
+
+[Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
+N-tier architecture is a client-server architecture concept in software engineering where the presentation, processing and data management functions are both logically and physically separated. These functions are each running on a separate machine or separate clusters so that each is able to provide the services at top capacity since there is no resource sharing. This separation makes managing each separately easier since doing work on one does not affect the others, isolating any problems that might occur. It has benefits such as to scale separate tiers without touching other tiers, prevents cascade effects; isolates maintenance, expands in any way according to requirements and each tier can be secured separately and in different ways.
+
+[Resource 1](https://www.guru99.com/n-tier-architecture-system-concepts-tips.html)
+[Resource 2](https://www.techopedia.com/definition/17185/n-tier-architecture)
 </b></details>
 
 #### Azure Storage
