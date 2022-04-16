@@ -1,11 +1,3 @@
-:information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
-
-:bar_chart: &nbsp;There are currently **2138** exercises and questions
-
-
-:warning: &nbsp;You can use these for preparing for an interview but most of the questions and exercises don't represent an actual interview. Please read [FAQ page](faq.md) for more details
-
-
 ****
 
 <!-- ALL-TOPICS-LIST:START -->
