@@ -40,7 +40,6 @@
     <td align="center"><a href="#Misc"><img src="images/general.png" width="110px;" height="75px;" alt="Misc"/><br /><b>Misc</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="#testing"><img src="images/testing.png" width="75px;" height="75px;" alt="Testing"/><br /><b>Testing</b></a></td>
     <td align="center"><a href="#databases"><img src="images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></a></td>
     <td align="center"><a href="#regex"><img src="images/regex.png" width="75ph;" height="75px;" alt="RegEx"/><br /><b>Regex</b></a></td>
     <td align="center"><a href="#system-design"><img src="images/design.png" width="110px;" height="75px;" alt="Design"/><br /><b>System Design</b></a></td>
@@ -6917,50 +6916,6 @@ you can show how you'd be able to mitigate that problem.
 Not only this will tell you what is expected from you, it will also provide big hint on the type of work you are going to do in the first months of your job.
 </b></details>
 
-## Testing
-
-<details>
-<summary>Explain white-box testing</summary><br><b>
-</b></details>
-
-<details>
-<summary>Explain black-box testing</summary><br><b>
-</b></details>
-
-<details>
-<summary>What are unit tests?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What types of tests would you run to test a web application?</summary><br><b>
-</b></details>
-
-<details>
-<summary>Explain test harness?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What is A/B testing?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What is network simulation and how do you perform it?</summary><br><b>
-</b></details>
-
-<details>
-<summary>What types of performances tests are you familiar with?</summary><br><b>
-</b></details>
-
-<details>
-<summary>Explain the following types of tests:
-
-  * Load Testing
-  * Stress Testing
-  * Capacity Testing
-  * Volume Testing
-  * Endurance Testing
-</summary><br><b>
-</b></details>
 
 ## Databases
 
