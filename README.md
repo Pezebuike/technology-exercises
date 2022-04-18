@@ -4885,7 +4885,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 ## Azure-DP-900
 
 <details>
-<summary>Question 1 : What is Azure ?</summary><br><b>
+<summary>Question 1 : What is Azure?</summary><br><b>
 
   - Question 1 ? 👇
    ![Question 1](./exercises/azure-DP-900/Q1.png)
@@ -5281,7 +5281,7 @@ It follows common modern software development practices which makes cluster conf
 <summary>How does Anthos Service Mesh help?</summary><br><b>
 Tool and technology integration that makes up Anthos service mesh delivers signficant operational benefits to Anthos environments, with minimal additional overhead such as follows:
 
-* Uniform observability - the data plane reports service to service communication back to the control plane generating a service dependency graph. Traffic inspection by the proxy inserts headers to facilitate distributed tracing, capturing and reporting service logs together with service-level metrics (i.e latency, errors, availability).
+* Uniform observability - the data plane reports service to service communication back to the control plane generating a service dependency graph. Traffic inspection by the proxy inserts headers to facilitate distributed tracing, capturing and reportazureing service logs together with service-level metrics (i.e latency, errors, availability).
 * Operational agility - fine-grained controls for managing the flow of inter-mesh (north-south) and intra-mesh (east-west) traffic are provided.
 * Policy-driven security - policies can be enforced consistently across diverse protocols and runtimes as service communications are secured by default.
 </b></details>
