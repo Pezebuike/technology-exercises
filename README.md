@@ -5351,7 +5351,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 ## Azure-DP-900
 
 <details>
-<summary>Question 1 : What is CosmosDB ?</summary><br><b>
+<summary>Question 1 : What is Azure ?</summary><br><b>
 
   - Question 1 ? 👇
    ![Question 1](./exercises/azure-DP-900/Q1.png)
