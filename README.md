@@ -5363,83 +5363,7 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 
 </b></details>
 
-<details>
-<summary>Question 2 : What is descriptive analysis?</summary><br><b>
 
-  - Question 2 ? 👇
-   ![Question 1](./exercises/azure-DP-900/2Q.png)
-   
-   - Answer 2 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/2A.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
-
-<details>
-<summary>Question 3 : What is descriptive analysis?</summary><br><b>
-
-  - Question 2 ? 👇
-   ![Question 1](./exercises/azure-DP-900/Q3.png)
-   
-   - Answer 2 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/A3.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
-
-<details>
-<summary>Question 4 : What is descriptive analysisq3243223?</summary><br><b>
-
-  - Question 4 ? 👇
-   ![Question 1](./exercises/azure-DP-900/Q4.png)
-   
-   - Answer 4 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/A4.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
-
-<details>
-<summary>Question 5 : What is descriptive analysisq3243223?</summary><br><b>
-
-  - Question 5 ? 👇
-   ![Question 1](./exercises/azure-DP-900/Q5.png)
-   
-   - Answer 5 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/A5.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
-
-<details>
-<summary>Question 35 : What is descriptive analysisq3243223?</summary><br><b>
-
-  - Question 35 ? 👇
-   ![Question 1](./exercises/azure-DP-900/35Q.png)
-   
-   - Answer 35 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/35A.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
-
-<details>
-<summary>Question 10 : What is descriptive analysisq3243223?</summary><br><b>
-
-  - Question 10 ? 👇
-   ![Question 1](./exercises/azure-DP-900/10Q.png)
-   
-   - Answer 10 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/10A.png)
-
-  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
-
-</b></details>
 
 ## Azure
 
@@ -5577,7 +5501,7 @@ N-tier architecture is a client-server architecture concept in software engineer
 <details>
 <summary>What storage options Azure supports?</summary><br><b>
 
-[microsoft docs](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/): Azure Storage offers five core services: 
+[Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/): Azure Storage offers five core services: 
  * Blobs
  * Files
  * Queues
