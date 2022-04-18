@@ -5364,7 +5364,6 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 </b></details>
 
 
-
 ## Azure
 
 <details>
