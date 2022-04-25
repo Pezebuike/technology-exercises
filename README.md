@@ -4885,15 +4885,15 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 ## Azure-DP-900
 
 <details>
-<summary>Question 1 : What is Azure?</summary><br><b>
+<summary>Question 1 : Descriptive analysis tells us about___</summary><br><b>
 
   - Question 1 ? 👇
-   ![Question 1](./exercises/azure-DP-900/Q1.png)
+   ![Question 1](./exercises/azure-DP-900/1Q.png)
    
    - Answer 1 ? 👇
-   ![Answer 1](./exercises/azure-DP-900/A1.png)
+   ![Answer 1](./exercises/azure-DP-900/1A.png)
 
-  - Reference : https://docs.microsoft.com/en-us/azure/architecture/data-guide/relational-data/etl
+  - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
 
 </b></details>
 
