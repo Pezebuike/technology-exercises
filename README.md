@@ -4888,10 +4888,10 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <summary>Question 1 : Descriptive analysis tells us about___</summary><br><b>
 
   - Question 1 ? 👇
-   ![Question 1](/exercises/azure-DP-900/1Q.png)
+   ![Question 1](/exercises/azure-DP-900/1Q.PNG)
    
    - Answer 1 ? 👇
-   ![Answer 1](/exercises/azure-DP-900/1A.png)
+   ![Answer 1](/exercises/azure-DP-900/1A.PNG)
 
   - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
 
@@ -4901,10 +4901,10 @@ When you use a function (`YEAR(purchased_at)`) it has to scan the whole database
 <summary>Question 2 : Descriptive 23456 analysis tells us about___</summary><br><b>
 
   - Question 2 ? 👇
-   ![Question 2](/exercises/azure-DP-900/2Q.png)
+   ![Question 2](/exercises/azure-DP-900/2Q.PNG)
    
    - Answer 2 ? 👇
-   ![Answer 2](/exercises/azure-DP-900/2A.png)
+   ![Answer 2](/exercises/azure-DP-900/2A.PNG)
 
   - Reference : https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
 
